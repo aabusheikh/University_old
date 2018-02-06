@@ -1,0 +1,81 @@
+/**
+ * JavaFX CSS file for styling
+ * 
+ * @version 0.6
+ */
+
+/* Title bar ----- */
+.toolBar {
+	-fx-background-color:#DBDBDB;
+	-fx-background-radius:0;
+}
+
+.titleLogo {
+	-fx-stroke:#8d95c3;
+	-fx-stroke-type:outside;
+	-fx-stroke-width:1;
+	-fx-text-alignment:center;
+}
+
+/* Tab Header ----- */
+.tab-pane {
+	-fx-tab-min-width:50;
+	-fx-tab-min-height:25;
+}
+
+.tab-pane .tab-header-area {
+    -fx-background-color:#DBDBDB;
+	-fx-background-radius:0;
+}
+
+/* Tab ----- */
+.tab {
+    -fx-background-color:#DBDBDB;
+	-fx-background-radius:0;
+}
+
+.tab .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #5E5E5E;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+
+.tab:hover {
+	-fx-background-color:#ADADAD;
+}
+
+.tab:selected {
+	-fx-background-color:#5E5E5E;
+}
+
+.tab:selected .tab-label { 
+    -fx-text-fill:#BFBFBF;
+}
+
+/* Tab.Pane ----- */
+.homeLogo {
+	-fx-stroke:#8d95c3;
+	-fx-stroke-type:outside;
+	-fx-stroke-width:1;
+	-fx-text-alignment:center;
+	-fx-effect: dropshadow(three-pass-box , #333333 , 5, 0 , 0 , 1);
+}
+
+#circle {
+	
+}
+
+.button {	
+	-fx-background-radius: 0;
+	-fx-cursor: hand;
+	-fx-effect: dropshadow(three-pass-box , #333333 , 5, 0 , 0 , 1);
+}
+
+.tabPane {
+	-fx-background-color:#5E5E5E;
+}
+
+/*
+ innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ) 
+*/
