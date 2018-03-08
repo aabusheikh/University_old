@@ -1,3 +1,6 @@
+% Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+% Assignment by Prof. Jochen Lang
+
 % You will find the inventory of an outfitter on the following page.
 
 % Tents

@@ -1,3 +1,6 @@
+% Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+% Assignment by Prof. Jochen Lang
+
 % We saw in class how to represent a binary search tree in Prolog. Write a predicate lca (K1, K2, T) which
 % allows one to find the smallest common ancestor of K1 and K2 in the tree T. The predicate lca shall
 % print the subtree T such that the root is the smallest common ancestor of K1 and K2.

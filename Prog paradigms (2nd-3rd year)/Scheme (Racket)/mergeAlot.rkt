@@ -1,5 +1,8 @@
 #lang racket
 
+; Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+; Assignment by Prof. Jochen Lang
+
 ; Write a Scheme function mergeALot that takes a list of sorted lists and merge them into one sorted list.
 ; If the top-level list contains entries which are not sorted, than your function must return an error
 ; message indicating which is the offending list.

@@ -1,3 +1,5 @@
+# Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+
 '''
 1. Create the function cubeLess (x, b) which calculates the power of 3 and the remainder such that
 b =x3+r and returns the remainder r.

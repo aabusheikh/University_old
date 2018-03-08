@@ -1,5 +1,8 @@
 #lang racket
 
+; Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+; Assignment by Prof. Jochen Lang
+
 ; 1. [0.5 point] Design a function that takes a list of characters and numbers and adds up all the
 ; numbers returning the list of characters unchanged but only the sum of the numbers.
 ;

@@ -1,3 +1,6 @@
+% Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+% Assignment by Prof. Jochen Lang
+
 %*******************
 % a) Create the rule cubeLess(X,B,R) which calculates the power of 3 and the remainder such that
 % b =x^3 + r. Therefore, for a query cubeLess( 2, 10, R) , the result should be R=2. Note, that you will

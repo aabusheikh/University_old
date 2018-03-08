@@ -1,3 +1,5 @@
+# Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+# based on template provided in PLY Docs (http://www.dabeaz.com/ply/)
 
 import ply.lex as lex
 import ply.yacc as yacc

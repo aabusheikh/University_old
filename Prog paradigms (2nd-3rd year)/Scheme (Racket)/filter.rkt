@@ -1,5 +1,8 @@
 #lang racket
 
+; Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+; Assignment by Prof. Jochen Lang
+
 ; Design the function filter to return the application of the filter to a list (You must normalize the
 ; weights of the filter). Note that filter and list can have arbitrary length. For example:
 ;

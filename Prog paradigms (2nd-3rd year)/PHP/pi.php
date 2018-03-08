@@ -1,6 +1,9 @@
 <?php
 /**
  *  Estimating Pi using random points in PHP
+ * 
+ * Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/),
+ *                     Muhammad Owais Bawany (https://github.com/obawany)
  */
 
 function calcPi() {

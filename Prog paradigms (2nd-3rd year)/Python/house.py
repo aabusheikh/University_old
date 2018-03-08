@@ -1,3 +1,5 @@
+# Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+
 '''
 1. Create a class House with the following instance variables :
     • A list of strings for the rooms in the house

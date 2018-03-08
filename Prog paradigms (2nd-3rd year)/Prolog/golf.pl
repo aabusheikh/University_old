@@ -1,3 +1,6 @@
+% Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+% Assignment by Prof. Jochen Lang
+
 % Q1:
 % Five golfers, named Jules, Gilles, Jean, Joe and Ghislain often play a round of golf together (use small
 % caps for the players� names in your program). Their occupations are, not necessarily in this order,

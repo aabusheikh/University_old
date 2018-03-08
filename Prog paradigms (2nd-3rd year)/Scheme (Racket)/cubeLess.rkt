@@ -1,5 +1,8 @@
 #lang racket
 
+; Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+; Assignment by Prof. Jochen Lang
+
 ; 1. [0.5 point] Create the function (cubeLess x b) which calculates the power of 3 and the remainder
 ; such that b =x3+r and returns the remainder r. For example,
 ;

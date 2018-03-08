@@ -1,3 +1,6 @@
+% Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+% Assignment by Prof. Jochen Lang
+
 %tic-tac-toe
 
 %win using full row

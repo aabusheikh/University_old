@@ -2,6 +2,14 @@
 
 /**
  *  Tic Tac Toe in PHP
+ * 
+ * Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/)
+ * 
+ * based on: 
+ * Author: design1online.com, LLC
+ * Created: 1.31.2012
+ * License: Public GNU
+ * Description: tic tac toe game
  */
 
 class tictactoe {

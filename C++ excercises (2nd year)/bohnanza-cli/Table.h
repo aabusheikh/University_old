@@ -1,3 +1,8 @@
+/*
+ * Copyright (C) 2018  Ahmad A. A. (https://github.com/bbpgrs/), 
+ *                     Nicholas Gagnon (https://github.com/ngagnon)
+ */
+
 #ifndef CSI2372_TABLE_H
 #define CSI2372_TABLE_H
 
